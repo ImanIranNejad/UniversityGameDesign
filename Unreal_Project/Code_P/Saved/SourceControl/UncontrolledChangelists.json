@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/VehicleMovementComp_ExternalCurve.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/BP_Zhian_Rear_Wheel.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/BP_Zhian_Front_Wheel.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/BP_Zhian.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Materials/Black_Matte.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Materials/Dark_Steel.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Meshes/Car_Zhian_Skeleton.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Anims/Car_Zhian_AnimBP.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Materials/Body.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Materials/Light.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Materials/Cheragh.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Materials/Chrome.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Materials/dark.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Materials/Ghahvei.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Materials/Glass.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Materials/Grey_Metal.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Materials/lightb.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Materials/Khatar.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Materials/Steel.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Meshes/Car_Zhian_PhysicsAsset.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Meshes/Car_Zhian.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Khatar.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Cheragh.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Steel.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Grey_Metal.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Glass.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Body.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/dark.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Black_Matte.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Chrome.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Car_Zhian_PhysicsAsset.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Mesh/Car_Zhian.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Mesh/Car_Zhian_PhysicsAsset.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Mesh/Car_Zhian_Skeleton.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Zhian_BP.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/WheelFront.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/WheelRear.uasset",
+				"C:/Users/the13eauty/Documents/GitHub/UniversityGameDesign/Unreal_Project/Code_P/Content/Cars/Zhian/Racing.uasset"
+			]
+		}
+	]
+}
